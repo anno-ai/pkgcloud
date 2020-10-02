@@ -1,3 +1,5 @@
+![NPM Audit Dependencies](https://github.com/anno-ai/pkgcloud/workflows/NPM%20Audit%20Dependencies/badge.svg)
+
 # pkgcloud [![Build Status](https://secure.travis-ci.org/pkgcloud/pkgcloud.png?branch=master)](http://travis-ci.org/pkgcloud/pkgcloud) [![NPM version](https://badge.fury.io/js/pkgcloud.png)](http://badge.fury.io/js/pkgcloud)
 
 [![Join the chat at https://gitter.im/pkgcloud/pkgcloud](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pkgcloud/pkgcloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
